@@ -35,11 +35,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neringi&show_icons=true&locale=en" alt="neringi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neringi&" alt="neringi" /></p>
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
