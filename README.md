@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ringo</h1>
-<h3 align="center">Full stack developer from UK.</h3>
+<h3 align="center">Full stack developer with over 6 years of experience in technical consulting and customer solutions engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neringi&label=Profile%20views&color=0e75b6&style=flat" alt="neringi" /> </p>
 
