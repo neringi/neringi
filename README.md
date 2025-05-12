@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neringi&label=Profile%20views&color=0e75b6&style=flat" alt="neringi" /> </p>
 
-- 🔭 I’m currently working on **Not Another TODO App!**
+- 🔭 I’m currently working on **Personal Strava analysis!**
 
 - 🌱 I’m currently learning **React, NextJS,soldering**
 
